@@ -19,5 +19,3 @@ jobs:
           config: classic
           filename: metrics.svg
 
-          # Plugins extras (opcional)
-          plugins: languages, stars, commits, lines, followup, repositories
